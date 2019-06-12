@@ -69,7 +69,7 @@ public class WeatherController extends AppCompatActivity {
     }
 
 
-    // TODO: Add getWeatherForNewCity(String city) here:
+     // TODO: Add getWeatherForNewCity(String city) here:
 
 
 
